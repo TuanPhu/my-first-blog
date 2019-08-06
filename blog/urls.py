@@ -1,3 +1,5 @@
+''' urls.py Docstrings'''
+
 from django.urls import path
 from . import views
 
